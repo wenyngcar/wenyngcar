@@ -6,10 +6,10 @@
 <img align="right" height="200" src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif"  />
 <ul align=left>
   <li>👀 I’m interested in AI and Full Stack Web Development.</li>
-  <li>🌱 I’m currently learning PyTorch</li>
-  <li>😄 Pronouns: Us🫰 </li>
-  <li>⚡ Fun fact: There's nothing fun about me.</li>
+  <li>🌱 I’m currently learning PyTorch.</li>
+  <li>😄 Pronouns: Us🫰</li>
   <li>🍵 I love drinking coffee. 🔥 It boostes my cognitive skills.</li>
+  <li>🧑‍💻 I used Neovim as my code editor.</li>
   <li>🟪 Catppuccin is the best theme.</li>
 </ul> 
 

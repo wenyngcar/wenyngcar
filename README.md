@@ -8,7 +8,7 @@
   <li>👀 I’m interested in AI and Full Stack Web Development.</li>
   <li>🌱 I’m currently learning PyTorch.</li>
   <li>😄 Pronouns: Us🫰</li>
-  <li>🍵 I love drinking coffee. 🔥 It boostes my cognitive skills.</li>
+  <li>🍵 I am dumb without my coffee.</li>
   <li>🧑‍💻 I used Neovim as my code editor.</li>
   <li>🟪 Catppuccin is the best theme.</li>
 </ul> 
